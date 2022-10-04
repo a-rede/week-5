@@ -17,3 +17,16 @@
 /* .heading.london {
     background-color: pink;
 } */
+
+span {
+    padding: 0 5px 0;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+
+p {
+    border-width: 10px ;
+    border-style:ridge;
+    border-color: lightgreen;
+    margin: 5px;
+}
